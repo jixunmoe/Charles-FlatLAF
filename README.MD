@@ -48,7 +48,7 @@ See [my blog post about Restyling Charles][blog_post] for details.
    * 将 `vm.location` 行替换为：  
      `vm.location=<JDK 安装目录>\bin\server\jvm.dll`
 
-[charles_flaf_rel]: https://github.com/jixunmoe/Charles-FlatLAF/release
+[charles_flaf_rel]: https://github.com/jixunmoe/Charles-FlatLAF/releases/latest
 [charles_flaf_git]: https://github.com/jixunmoe/Charles-FlatLAF
 [blog_post]: https://jixun.uk/posts/2022/restyle-charles-using-flatlaf/
 [a_jdk11]: https://adoptium.net/temurin/releases/?version=11
