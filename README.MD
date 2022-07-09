@@ -5,7 +5,7 @@
 Modernise Charles with a refreshing Flat look-and-feel!
 
 You only need this Java Agent loader for Windows.
-See [my blog post about Restyling Charles][blog_post] for details.
+See [my blog post about Restyling Charles][blog_post_en] for details.
 
 ### Installation
 
@@ -51,4 +51,5 @@ See [my blog post about Restyling Charles][blog_post] for details.
 [charles_flaf_rel]: https://github.com/jixunmoe/Charles-FlatLAF/releases/latest
 [charles_flaf_git]: https://github.com/jixunmoe/Charles-FlatLAF
 [blog_post]: https://jixun.uk/posts/2022/restyle-charles-using-flatlaf/
+[blog_post_en]: https://jixun.uk/en/posts/2022/restyle-charles-using-flatlaf/
 [a_jdk11]: https://adoptium.net/temurin/releases/?version=11
